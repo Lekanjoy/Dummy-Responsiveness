@@ -250,7 +250,7 @@ header {
   margin: 0.9rem;
   color: rgb(187, 178, 178);
 }
-@media only screen and (max-width:780px) and (orientation: landscape) {
+@media only screen and (max-width:900px) and (orientation: landscape) {
   
 .hero-text{
   margin-top: 6rem;
